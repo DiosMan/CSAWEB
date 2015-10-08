@@ -1,0 +1,450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"magin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"mim",
+				"mimic"
+			],
+			[
+				"mic",
+				"mimic_dict"
+			],
+			[
+				"ge",
+				"get"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"ram",
+				"random_word〔variable〕"
+			],
+			[
+				"wor",
+				"word"
+			],
+			[
+				"mimic",
+				"mimic_dict"
+			],
+			[
+				"dic",
+				"dictionary〔variable〕"
+			],
+			[
+				"word",
+				"words〔variable〕"
+			],
+			[
+				"mimi",
+				"mimic_dict〔argument〕"
+			],
+			[
+				"wo",
+				"words〔variable〕"
+			],
+			[
+				"sp",
+				"split"
+			],
+			[
+				"li",
+				"list2〔argument〕"
+			],
+			[
+				"tup",
+				"tuples〔variable〕"
+			],
+			[
+				"tu",
+				"tuples〔variable〕"
+			],
+			[
+				"diction",
+				"dictionary_sorted〔variable〕"
+			],
+			[
+				"get",
+				"getTupleLast"
+			],
+			[
+				"sort",
+				"sorted"
+			],
+			[
+				"d",
+				"dictionary"
+			],
+			[
+				"dict",
+				"dictionary2"
+			],
+			[
+				"sor",
+				"sorted〔function〕"
+			],
+			[
+				"file",
+				"filename〔argument〕"
+			],
+			[
+				"print",
+				"print_top"
+			],
+			[
+				"font",
+				"font"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6612,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"livere",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Help"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"HTM",
+				"HTMLPrettify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				"Set Syntax: C++"
+			],
+			[
+				"pyt",
+				"Build With: Python"
+			],
+			[
+				"anaco",
+				"Emmet: Balance (outward)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Transcend/csa改进版",
+		"/Volumes/Transcend/csa改进版/css"
+	],
+	"file_history":
+	[
+		"/Volumes/Transcend/csa改进版/others.html",
+		"/Volumes/Transcend/csa改进版/schedum.html",
+		"/Volumes/Transcend/csa改进版/upcoming1.html",
+		"/Volumes/Transcend/csa改进版/upcoming2.html",
+		"/Volumes/Transcend/csa改进版/css/style.css",
+		"/Volumes/Transcend/csa改进版/Changes Note.txt",
+		"/Volumes/Transcend/csa改进版/yummy.html",
+		"/Volumes/Transcend/csa改进版/news.html",
+		"/Volumes/Transcend/csa改进版/mainInfo.html",
+		"/Volumes/Transcend/csa改进版/buzhang.html",
+		"/Volumes/Transcend/csa改进版/index.html",
+		"/Volumes/Transcend/bootstrap-3.3.5/docs/examples/cover/index.html",
+		"/Volumes/Transcend/bootstrap-3.3.5/docs/examples/cover/cover.css",
+		"/Volumes/Transcend/填充资料2/活动介绍.txt",
+		"/Volumes/Transcend/填充资料2/部门介绍.txt",
+		"/Volumes/Transcend/填充资料2/部门介绍",
+		"/Users/davidsmac/Documents/First WEB/main.css",
+		"/Users/davidsmac/Documents/First WEB/index.html",
+		"/Users/davidsmac/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/davidsmac/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/davidsmac/Documents/First WEB/David Davidson - Moon River.mp3",
+		"/Applications/League of Legends.app/Contents/LoL/RADS/system/locale.cfg",
+		"/Volumes/Transcend/填充资料/Pictures/活动照片/活动时间地点.txt",
+		"/Users/davidsmac/Desktop/Python_test_code.py",
+		"/Volumes/Transcend/google-python-exercises/basic/mimic.py",
+		"/Volumes/Transcend/google-python-exercises/basic/solution/mimic.py",
+		"/Users/davidsmac/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Volumes/Transcend/google-python-exercises/basic/list2.py",
+		"/Volumes/Transcend/google-python-exercises/basic/list1.py",
+		"/Volumes/Transcend/google-python-exercises/basic/wordcount.py",
+		"/Users/davidsmac/Desktop/Py/trysub.py",
+		"/Volumes/Transcend/google-python-exercises/basic/solution/wordcount.py",
+		"/Users/davidsmac/Desktop/Py/fdaf",
+		"/Users/davidsmac/Documents/First WEB/Second_Pages/second_page.html",
+		"/Users/davidsmac/Documents/First WEB/tryemme.html"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+			"css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"social",
+			"prettyPhoto",
+			"tittle",
+			"bod",
+			"bannerbg",
+			"container",
+			"logo",
+			"logo\n",
+			")\n",
+			"option",
+			"item",
+			"len",
+			"word_count"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2717,
+								2717
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CSA_WEB.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,10 @@
+Changes Note: 
+
+2015.10.07
+----add <img-responsive> tag to the index.html images (bootstrap css)
+----Change Tittle of buzhang.html , add underline using <class="page-header"> (bootstrap css)
+----add <class="lead text-center">
+----add <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+----add beta info on index
